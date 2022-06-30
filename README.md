@@ -41,4 +41,4 @@ We will keep some pull requests open if we are not sure whether those libraries 
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [@escapetechHQ](https://twitter.com/escapetechHQ) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact us [@escapetechHQ](https://twitter.com/escapetechHQ) on Twitter or open an issue on GitHub.
