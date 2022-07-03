@@ -1,6 +1,6 @@
 <!--lint disable awesome-list-item awesome-toc-->
 
-# Awesome Graphql Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Graphql Security [![Awesome]](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 
@@ -43,7 +43,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) - Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
 ### Vulnerable APIs
-- [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
+- [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
 
 ## Resources
 
