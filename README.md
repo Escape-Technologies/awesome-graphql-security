@@ -4,33 +4,50 @@
 
 A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 
-- [Awesome Graphql Security ![Awesome](https://awesome.re)](#awesome-graphql-security-)
-  - [Recon](#recon)
-  - [Intruders](#intruders)
-  - [Continous security monitoring](#continous-security-monitoring)
-  - [Vulnerabilities](#vulnerabilities)
+- [Awesome Graphql Security](https://awesome.re)](#awesome-graphql-security-)
+  - [Defensive Security Tools](#defensive-security)
+      - [Continous Security Monitoring](#continous-security-monitoring)
+  - [Offensive Security Tools](#offensive-security)
+      - [Discovery](#discovery)
+      - [Exploitation](#exploitation)
   - [Resources](#resources)
+      - [Vulnerabilities](#vulnerabilities)
+      - [Blogs](#blogs)
   - [Contributing](#contributing)
 
 ---
+## Defensive Security
 
-## Discovery
+### Continous Security Testing
+
+- [Escape - GraphQL Security](https://escape.tech) - Continuous GraphQL Security Testing for Developers. Find and fix GraphQL security flaws in the CI/CD.
+
+### Authentication & Authorization
+
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application. 
+
+## Offensive Security
+
+### Discovery
 
 - [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
+- [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
 
-## Exploitation
+
+### Exploitation
 
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
 - [GraphQLMap](https://github.com/swisskyrepo/GraphQLmap) - A scripting engine to interact with a GraphQL endpoint for pentesting purposes.
 - [GraphQL.Security](https://graphql.security) - One-click quick security scan of your GraphQL endpoints. Free, no login required.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) - Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
-## Continous Security Monitoring
+### Vulnerable APIs
+- [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 
-- [Escape](https://escape.tech) - A platform dedcated to developers designed to detect and fix security flaws before hackers find them with continuous GraphQL Security Testing and Performance Monitoring.
+## Resources
 
-## Vulnerabilities
+### Vulnerabilities
 
 - [File Inclusion and Directory Traversal](https://blog.escape.tech/file-inclusion-directory-traversal-graphql/) - File Inclusion and Directory Traversal in GraphQL.
 - [Verbose Errors Suggestions](https://blog.escape.tech/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
@@ -40,13 +57,12 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks
 - [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL
 
-## Blogs
+### Blogs
 
 - [Access Control Best Practices for GraphQL with Authentication and Authorization](https://blog.escape.tech/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
 - [The GraphQL Security Blog](https://blog.escape.tech/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 - [Apollo Blog](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/) - Take your GraphQL skills to the next level with our free interactive GraphQL tutorials, videos, quizzes and code challenges.
 
-## Books
 
 ## Contributing
 
