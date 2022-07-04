@@ -6,28 +6,33 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [Awesome Graphql Security](#awesome-graphql-security)
   - [Defensive Security Tools](#defensive-security)
-      - [Continous Security Testing](#continous-security-testing)
       - [Authentication & Authorization](#authentication-&-authorization)
-  - [Offensive Security Tools](#offensive-security)
+      - [Continous Security Testing](#continous-security-testing)
+      - [Security Solutions](#security-solutions)
+- [Offensive Security Tools](#offensive-security)
       - [Discovery](#discovery)
       - [Exploitation](#exploitation)
       - [Vulnerable Applications](#vulnerable-applications)
       - [Visualizer](#visualizer)
   - [Resources](#resources)
-      - [Vulnerabilities](#vulnerabilities)
       - [Blogs](#blogs)
+      - [Vulnerabilities](#vulnerabilities)
   - [Contributing](#contributing)
 
 ---
 ## Defensive Security
 
+### Authentication & Authorization
+
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application. 
+
 ### Continous Security Testing
 
 - [Escape - GraphQL Security](https://escape.tech) - Continuous GraphQL Security Testing for Developers. Find and fix GraphQL security flaws in the CI/CD.
 
-### Authentication & Authorization
+### Security Solutions
 
-- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application. 
+- [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
 
 ## Offensive Security
 
@@ -35,7 +40,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
-
 
 ### Exploitation
 
@@ -54,6 +58,12 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ## Resources
 
+### Blogs
+
+- [Access Control Best Practices for GraphQL with Authentication and Authorization](https://blog.escape.tech/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
+- [The GraphQL Security Blog](https://blog.escape.tech/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [Apollo Blog](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/) - Take your GraphQL skills to the next level with our free interactive GraphQL tutorials, videos, quizzes and code challenges.
+
 ### Vulnerabilities
 
 - [File Inclusion and Directory Traversal](https://blog.escape.tech/file-inclusion-directory-traversal-graphql/) - File Inclusion and Directory Traversal in GraphQL.
@@ -63,13 +73,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphQL Cyclic Queries and Depth Limiting](https://blog.escape.tech/cyclic-queries-and-depth-limit/) - The relational aspect of GraphQL can be a vulnerability exploited by running deep and cyclic queries causing your API to crawl under the load and crash.
 - [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks
 - [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL
-
-### Blogs
-
-- [Access Control Best Practices for GraphQL with Authentication and Authorization](https://blog.escape.tech/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
-- [The GraphQL Security Blog](https://blog.escape.tech/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
-- [Apollo Blog](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/) - Take your GraphQL skills to the next level with our free interactive GraphQL tutorials, videos, quizzes and code challenges.
-
 
 ## Contributing
 
