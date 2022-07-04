@@ -12,6 +12,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
       - [Discovery](#discovery)
       - [Exploitation](#exploitation)
       - [Vulnerable Applications](#vulnerable-applications)
+      - [Visualizer](#visualizer)
   - [Resources](#resources)
       - [Vulnerabilities](#vulnerabilities)
       - [Blogs](#blogs)
@@ -32,7 +33,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Discovery
 
-- [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
 
@@ -46,6 +46,11 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Vulnerable Applications
 - [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
+
+### Visualizer
+
+- [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
+- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize graphql schema
 
 ## Resources
 
