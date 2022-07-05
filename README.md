@@ -4,22 +4,23 @@
 
 A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 
-- [Awesome Graphql Security](#awesome-graphql-security)
-  - [Defensive Security Tools](#defensive-security)
-      - [Authentication & Authorization](#authentication-&-authorization)
-      - [Continous Security Testing](#continous-security-testing)
-      - [Security Solutions](#security-solutions)
-- [Offensive Security Tools](#offensive-security)
-      - [Discovery](#discovery)
-      - [Exploitation](#exploitation)
-      - [Vulnerable Applications](#vulnerable-applications)
-      - [Visualizer](#visualizer)
+- [Awesome Graphql Security ![awesome](https://awesome.re)](#awesome-graphql-security)
+  - [Defensive Security](#defensive-security)
+    - [Authentication & Authorization](#authentication--authorization)
+    - [Continous Security Testing](#continous-security-testing)
+    - [Security Solutions](#security-solutions)
+  - [Offensive Security](#offensive-security)
+    - [Discovery](#discovery)
+    - [Exploitation](#exploitation)
+    - [Vulnerable Applications](#vulnerable-applications)
+    - [Visualizer](#visualizer)
   - [Resources](#resources)
-      - [Blogs](#blogs)
-      - [Vulnerabilities](#vulnerabilities)
+    - [Blogs](#blogs)
+    - [Vulnerabilities](#vulnerabilities)
   - [Contributing](#contributing)
 
 ---
+
 ## Defensive Security
 
 ### Authentication & Authorization
@@ -50,6 +51,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled
 
 ### Vulnerable Applications
+
 - [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
 
 ### Visualizer
