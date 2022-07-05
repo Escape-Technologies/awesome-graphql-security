@@ -1,6 +1,6 @@
 <!--lint disable awesome-list-item awesome-toc-->
 
-# Awesome Graphql Security [![awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome GraphQL Security [![awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 
