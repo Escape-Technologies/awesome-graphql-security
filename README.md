@@ -41,6 +41,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
+- [GraphMan](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
 
 ### Exploitation
 
