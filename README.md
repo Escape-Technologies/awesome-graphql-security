@@ -46,6 +46,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Exploitation
 
+- [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - A GraphQL automated security toolkit. It will grab schemas, either through introspection or clairvoyance, search for sensative queries, and then test authorization. It also has the ability to use graphql-path-enum to grab the paths to different types from the schemas it grabs.
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled
 - [CrackQL](https://github.com/nicholasaleks/CrackQL) - GraphQL password brute-force and fuzzing utility.
 - [GraphQLMap](https://github.com/swisskyrepo/GraphQLmap) - A scripting engine to interact with a GraphQL endpoint for pentesting purposes.
