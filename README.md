@@ -43,11 +43,12 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [GraphMan](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
+- [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled
+- [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
 ### Exploitation
 
-- [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - A GraphQL automated security toolkit. It will grab schemas, either through introspection or clairvoyance, search for sensative queries, and then test authorization. It also has the ability to use graphql-path-enum to grab the paths to different types from the schemas it grabs.
-- [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled
+- [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.
 - [CrackQL](https://github.com/nicholasaleks/CrackQL) - GraphQL password brute-force and fuzzing utility.
 - [GraphQLMap](https://github.com/swisskyrepo/GraphQLmap) - A scripting engine to interact with a GraphQL endpoint for pentesting purposes.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) - Tool that lists the different ways of reaching a given type in a GraphQL schema.
