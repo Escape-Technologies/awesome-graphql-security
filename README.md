@@ -17,7 +17,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
   - [Resources](#resources)
     - [Blogs](#blogs)
     - [Vulnerabilities](#vulnerabilities)
-  - [Contributing](#contributing)
 
 ---
 
@@ -33,7 +32,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Security Solutions
 
-- [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
+- [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for GraphQL APIs.
 
 ## Offensive Security
 
@@ -42,8 +41,8 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphDNA](https://github.com/Escape-Technologies/GraphDNA) - Fast GraphQL engine fingerprinting tool using multi heuristics
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [GraphMan](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
-- [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility
-- [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled
+- [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility.
+- [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
 ### Exploitation
@@ -61,7 +60,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Visualizer
 
-- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize graphql schema
+- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize graphql schema.
 - [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 
 ## Resources
@@ -76,10 +75,10 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [Aliasing Attacks](https://blog.escape.tech/graphql-batch-attacks-cause-dos/) - Addressing the Security concerns of GraphQL Aliases.
 - [File Inclusion and Directory Traversal](https://blog.escape.tech/file-inclusion-directory-traversal-graphql/) - File Inclusion and Directory Traversal in GraphQL.
-- [GraphQL CSRF](https://blog.escape.tech/understanding-and-dealing-with-cross-site-request-forgery-attacks/) - Understanding and Dealing with Cross-Site Request Forgery Attacks (CSRF) in GraphQL
+- [GraphQL CSRF](https://blog.escape.tech/understanding-and-dealing-with-cross-site-request-forgery-attacks/) - Understanding and Dealing with Cross-Site Request Forgery Attacks (CSRF) in GraphQL.
 - [GraphQL Cyclic Queries and Depth Limiting](https://blog.escape.tech/cyclic-queries-and-depth-limit/) - The relational aspect of GraphQL can be a vulnerability exploited by running deep and cyclic queries causing your API to crawl under the load and crash.
-- [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks
-- [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL
+- [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks.
+- [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL.
 - [Verbose Errors Suggestions](https://blog.escape.tech/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
 
 ## Contributing
