@@ -4,6 +4,8 @@
 
 A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 
+## Contents
+
 - [Awesome GraphQL Security](#awesome-graphql-security)
   - [Defensive Security](#defensive-security)
     - [Authentication & Authorization](#authentication--authorization)
