@@ -20,8 +20,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
     - [Blogs](#blogs)
     - [Vulnerabilities](#vulnerabilities)
 
----
-
 ## Defensive Security
 
 ### Authentication & Authorization
