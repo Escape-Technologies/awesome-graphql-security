@@ -6,19 +6,18 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ## Contents
 
-- [Awesome GraphQL Security](#awesome-graphql-security)
-  - [Defensive Security](#defensive-security)
-    - [Authentication & Authorization](#authentication--authorization)
-    - [Continous Security Testing](#continous-security-testing)
-    - [Security Solutions](#security-solutions)
-  - [Offensive Security](#offensive-security)
-    - [Discovery](#discovery)
-    - [Exploitation](#exploitation)
-    - [Vulnerable Applications](#vulnerable-applications)
-    - [Visualizer](#visualizer)
-  - [Resources](#resources)
-    - [Blogs](#blogs)
-    - [Vulnerabilities](#vulnerabilities)
+- [Defensive Security](#defensive-security)
+  - [Authentication & Authorization](#authentication--authorization)
+  - [Continous Security Testing](#continous-security-testing)
+  - [Security Solutions](#security-solutions)
+- [Offensive Security](#offensive-security)
+  - [Discovery](#discovery)
+  - [Exploitation](#exploitation)
+  - [Vulnerable Applications](#vulnerable-applications)
+  - [Visualizer](#visualizer)
+- [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Vulnerabilities](#vulnerabilities)
 
 ## Defensive Security
 
