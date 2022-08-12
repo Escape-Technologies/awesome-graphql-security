@@ -9,6 +9,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Defensive Security](#defensive-security)
   - [Authentication & Authorization](#authentication--authorization)
   - [Continous Security Testing](#continous-security-testing)
+  - [Middlewares](#middlewares)
   - [Security Solutions](#security-solutions)
 - [Offensive Security](#offensive-security)
   - [Discovery](#discovery)
@@ -28,6 +29,10 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 ### Continous Security Testing
 
 - [Escape - GraphQL Security](https://escape.tech) - Continuous GraphQL Security Testing for Developers. Find and fix GraphQL security flaws in the CI/CD.
+
+### Middlewares
+
+- [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
 
 ### Security Solutions
 
