@@ -24,7 +24,8 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ### Authentication & Authorization
 
-- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application. 
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application.
+- [GraphQL Authz](https://github.com/AstrumU/graphql-authz) - GraphQL Shield helps you create a permission layer for your application.
 
 ### Continous Security Testing
 
@@ -49,6 +50,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
+
 ### Exploitation
 
 - [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.
@@ -66,6 +68,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize GraphQL schema.
 - [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
+- [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 
 ## Resources
 
