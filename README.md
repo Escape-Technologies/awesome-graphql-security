@@ -49,7 +49,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
-
 ### Exploitation
 
 - [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.
@@ -58,6 +57,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphQL.Security](https://graphql.security) - One-click quick security scan of your GraphQL endpoints. Free, no login required.
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework to research security gaps in GraphQL implementations.
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
+- [BatchQL](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations 
 
 ### Vulnerable Applications
 
