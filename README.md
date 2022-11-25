@@ -30,6 +30,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 ### Continous Security Testing
 
 - [Escape - GraphQL Security](https://escape.tech) - Continuous GraphQL Security Testing for Developers. Find and fix GraphQL security flaws in the CI/CD.
+- [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Utility to run common security tests against GraphQL APIs that can be run inside CI/CD.
 
 ### Middlewares
 
