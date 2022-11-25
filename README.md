@@ -48,6 +48,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility.
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
+- [ShapeShifter](https://github.com/szski/shapeshifter) - Schema extraction to JSON file with introspection.
 
 ### Exploitation
 
