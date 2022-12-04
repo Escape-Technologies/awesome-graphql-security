@@ -11,11 +11,14 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
   - [Continous Security Testing](#continous-security-testing)
   - [Middlewares](#middlewares)
   - [Security Solutions](#security-solutions)
+- [Neutral Security](#neutral-security)
+  - [Clients and IDEs](#clients-and-ides)
+  - [Self-Discovery](#self-discovery)
+  - [Visualizers](#visualizers)
 - [Offensive Security](#offensive-security)
   - [Discovery](#discovery)
   - [Exploitation](#exploitation)
   - [Vulnerable Applications](#vulnerable-applications)
-  - [Visualizer](#visualizer)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Vulnerabilities](#vulnerabilities)
@@ -40,12 +43,29 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 - [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for GraphQL APIs.
 
+## Neutral Security
+
+### Clients and IDEs
+
+- [Postman](https://www.postman.com/) - Postman is an API platform for developers to design, build, test and iterate their APIs.
+- [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
+- [Altair](https://altairgraphql.dev/) - Altair GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
+
+### Self-Discovery
+
+- [GraphMan](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
+
+### Visualizers
+
+- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize GraphQL schema.
+- [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
+- [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
+
 ## Offensive Security
 
 ### Discovery
 
 - [Graphinder](https://github.com/Escape-Technologies/graphinder) - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
-- [GraphMan](https://github.com/Escape-Technologies/graphman) - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
 - [Graphw00f](https://github.com/dolevf/graphw00f) - GraphQL Server Engine Fingerprinting utility.
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
@@ -64,12 +84,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 ### Vulnerable Applications
 
 - [Damm Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
-
-### Visualizer
-
-- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize GraphQL schema.
-- [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
-- [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 
 ## Resources
 
