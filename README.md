@@ -63,7 +63,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 - [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema viewer for endpoints with introspection
 - [NovaQL](https://github.com/nova-introspection/novaql) - GraphQL schema viewer for endpoints with introspection
-- [GraphQL Schema Viewer](https://github.com/rajinwonderland/graphql-schema-viewer/tree/master/) - GraphQL schema viewer
 - [CraftQL](https://github.com/yamafaktory/craftql) - CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) - GraphQL schema viewer
 
