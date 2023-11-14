@@ -84,7 +84,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework to research security gaps in GraphQL implementations.
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
 - [BatchQL](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
-- [GraphQL wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names... It was collected on more than 60k distinct GraphQL schemas.
+- [GraphQL wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names. It was collected on more than 60k distinct GraphQL schemas.
 
 ### Vulnerable Applications
 
@@ -129,4 +129,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ## 🤝 Join our team  
 
-We believe it’s time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our [**Careers**](https://jobs.escape.tech) page!
+We believe it's time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our [**Careers**](https://jobs.escape.tech) page!
