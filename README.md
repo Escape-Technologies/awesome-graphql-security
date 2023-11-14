@@ -2,7 +2,7 @@
 
 # Awesome GraphQL Security [![awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome GraphQL Security frameworks, libraries, software and resources.
+A curated list of awesome GraphQL Security frameworks, libraries, software, and resources.
 
 ## Contents
 
@@ -28,7 +28,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 ### Authentication & Authorization
 
 - [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application.
-- [GraphQL Authz](https://github.com/AstrumU/graphql-authz) - GraphQL Shield helps you create a permission layer for your application.
+- [GraphQL Authz](https://github.com/AstrumU/graphql-authz) - GraphQL authorization layer
 
 ### Continous Security Testing
 
@@ -73,6 +73,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [Clairvoyance](https://github.com/nikitastupin/clairvoyance) - Patrial introspection fetcher when introspection is disabled.
 - [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 - [ShapeShifter](https://github.com/szski/shapeshifter) - Schema extraction to JSON file with introspection.
+- [Goctopus](https://github.com/Escape-Technologies/goctopus) - a GraphQL endpoint discovery and fingerprinting tool.
 
 ### Exploitation
 
@@ -83,6 +84,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework to research security gaps in GraphQL implementations.
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
 - [BatchQL](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
+- [GraphQL wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names... It was collected on more than 60k distinct GraphQL schemas.
 
 ### Vulnerable Applications
 
@@ -90,12 +92,19 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 
 ## Resources
 
+### Academy
+
+- [API Security Academy](https://escape.tech/academy/) - Hands-on learning about GraphQL. Each lesson is built around a WebContainer containing a live GraphQL application, so you'll not only understand why a vulnerability is risky, but also how to exploit it and, most importantly, how to fix it.
+
 ### Blogs
 
 - [Access Control Best Practices for GraphQL with Authentication and Authorization](https://blog.escape.tech/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
 - [Apollo Blog](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/) - Take your GraphQL skills to the next level with our free interactive GraphQL tutorials, videos, quizzes and code challenges.
 - [The GraphQL Security Blog](https://blog.escape.tech/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
+- [GraphQL security for decentralized applications (DApps): challenges and best practices](https://escape.tech/blog/graphql-security-for-dapps/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+
+
 
 ### Vulnerabilities
 
@@ -106,6 +115,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software and r
 - [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks.
 - [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL.
 - [Verbose Errors Suggestions](https://blog.escape.tech/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
+- [What are Insecure Direct Object References (IDOR) in GraphQL, and how to fix them](https://escape.tech/blog/idor-in-graphql/) - When GraphQL Error Messages become a Security Issue.
 
 ## Contributing
 
@@ -116,3 +126,7 @@ We will keep some pull requests open if we are not sure whether those libraries 
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact us [@escapetechHQ](https://twitter.com/escapetechHQ) on Twitter or open an issue on GitHub.
+
+## 🤝 Join our team  
+
+We believe it’s time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our [**Careers**](https://jobs.escape.tech) page!
