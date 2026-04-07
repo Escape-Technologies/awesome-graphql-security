@@ -81,6 +81,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 - [CrackQL](https://github.com/nicholasaleks/CrackQL) - GraphQL password brute-force and fuzzing utility.
 - [GraphQLMap](https://github.com/swisskyrepo/GraphQLmap) - A scripting engine to interact with a GraphQL endpoint for pentesting purposes.
 - [GraphQL.Security](https://graphql.security) - One-click quick security scan of your GraphQL endpoints. Free, no login required.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework to research security gaps in GraphQL implementations.
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
 - [BatchQL](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
