@@ -104,6 +104,9 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
 - [GraphQL security for decentralized applications (DApps): challenges and best practices](https://escape.tech/blog/graphql-security-for-dapps/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
+## Papers
+- [Enhancing GraphQL Security by Detecting Malicious Queries Using Large Language Models, Sentence Transformers, and Convolutional Neural Networks](https://www.researchgate.net/publication/394539388_Enhancing_GraphQL_Security_by_Detecting_Malicious_Queries_Using_Large_Language_Models_Sentence_Transformers_and_Convolutional_Neural_Networks)
+
 
 
 ### Vulnerabilities
