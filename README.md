@@ -42,6 +42,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 ### Security Solutions
 
 - [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for GraphQL APIs.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. Verify agent identity before authorizing x402 micropayment-gated GraphQL API access. MCP: , . [MCP](https://intel.twzrd.xyz/mcp)
 
 ## Neutral Security
 
