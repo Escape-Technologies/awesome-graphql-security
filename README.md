@@ -83,6 +83,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 - [GraphQL.Security](https://graphql.security) - One-click quick security scan of your GraphQL endpoints. Free, no login required.
 - [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework to research security gaps in GraphQL implementations.
 - [InQL](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform that ships a dedicated GraphQL offensive sub-agent to fingerprint the engine, recover schemas when introspection is disabled, and test authorization, injection and batching abuse, orchestrating 80+ tools over MCP with a per-finding evidence trail.
 - [BatchQL](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
 - [GraphQL wordlist](https://github.com/Escape-Technologies/graphql-wordlist) - the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names. It was collected on more than 60k distinct GraphQL schemas.
 
