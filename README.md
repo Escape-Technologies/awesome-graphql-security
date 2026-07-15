@@ -58,7 +58,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Visualizers
 
-- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize GraphQL schema.
 - [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 - [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema viewer for endpoints with introspection
