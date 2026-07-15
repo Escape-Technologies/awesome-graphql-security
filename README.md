@@ -27,7 +27,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Authentication & Authorization
 
-- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application.
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - Helps you create a permission layer for your application.
 - [GraphQL Authz](https://github.com/AstrumU/graphql-authz) - GraphQL authorization layer
 
 ### Continous Security Testing
@@ -47,7 +47,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-- [Postman](https://www.postman.com/) - Postman is an API platform for developers to design, build, test and iterate their APIs.
+- [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 - [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 - [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Online REST and GraphQL client
@@ -88,7 +88,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Vulnerable Applications
 
-- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
+- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
 
 ## Resources
 
@@ -108,7 +108,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 ### Vulnerabilities
 
 - [Aliasing Attacks](https://escape.tech/blog/graphql-batch-attacks-cause-dos/) - Addressing the Security concerns of GraphQL Aliases.
-- [File Inclusion and Directory Traversal](https://escape.tech/blog/file-inclusion-directory-traversal-graphql/) - File Inclusion and Directory Traversal in GraphQL.
+- [File Inclusion and Directory Traversal](https://escape.tech/blog/file-inclusion-directory-traversal-graphql/) - Reading arbitrary server files through unvalidated path parameters in GraphQL.
 - [GraphQL CSRF](https://escape.tech/blog/understanding-and-dealing-with-cross-site-request-forgery-attacks/) - Understanding and Dealing with Cross-Site Request Forgery Attacks (CSRF) in GraphQL.
 - [GraphQL Cyclic Queries and Depth Limiting](https://escape.tech/blog/cyclic-queries-and-depth-limit/) - The relational aspect of GraphQL can be a vulnerability exploited by running deep and cyclic queries causing your API to crawl under the load and crash.
 - [HTTPS and GraphQL](https://escape.tech/blog/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks.
