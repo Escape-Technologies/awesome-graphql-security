@@ -92,10 +92,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ## Resources
 
-### Academy
-
-- [API Security Academy](https://escape.tech/academy/) - Hands-on learning about GraphQL. Each lesson is built around a WebContainer containing a live GraphQL application, so you'll not only understand why a vulnerability is risky, but also how to exploit it and, most importantly, how to fix it.
-
 ### Blogs
 
 - [Access Control Best Practices for GraphQL with Authentication and Authorization](https://escape.tech/blog/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
