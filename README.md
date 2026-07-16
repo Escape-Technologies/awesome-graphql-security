@@ -27,7 +27,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Authentication & Authorization
 
-- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL Shield helps you create a permission layer for your application.
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - Helps you create a permission layer for your application.
 - [GraphQL Authz](https://github.com/AstrumU/graphql-authz) - GraphQL authorization layer
 
 ### Continous Security Testing
@@ -47,7 +47,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-- [Postman](https://www.postman.com/) - Postman is an API platform for developers to design, build, test and iterate their APIs.
+- [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 - [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 - [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Online REST and GraphQL client
@@ -58,7 +58,6 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Visualizers
 
-- [GraphQL Visualizer](https://www.graphqlvisualizer.com) - Visualize GraphQL schema.
 - [Voyager](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 - [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema viewer for endpoints with introspection
@@ -88,19 +87,15 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Vulnerable Applications
 
-- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
+- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. 
 
 ## Resources
 
-### Academy
-
-- [API Security Academy](https://escape.tech/academy/) - Hands-on learning about GraphQL. Each lesson is built around a WebContainer containing a live GraphQL application, so you'll not only understand why a vulnerability is risky, but also how to exploit it and, most importantly, how to fix it.
-
 ### Blogs
 
-- [Access Control Best Practices for GraphQL with Authentication and Authorization](https://blog.escape.tech/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
+- [Access Control Best Practices for GraphQL with Authentication and Authorization](https://escape.tech/blog/authentication-authorization-access-control/) - Confusion between authentication and authorization causes data leaks. Learn the difference and how to implement the right access control pattern in your GraphQL API.
 - [Apollo Blog](https://www.apollographql.com/blog/graphql/security/9-ways-to-secure-your-graphql-api-security-checklist/) - Take your GraphQL skills to the next level with our free interactive GraphQL tutorials, videos, quizzes and code challenges.
-- [The GraphQL Security Blog](https://blog.escape.tech/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [The GraphQL Security Blog](https://escape.tech/blog/9-graphql-security-best-practices/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
 - [GraphQL security for decentralized applications (DApps): challenges and best practices](https://escape.tech/blog/graphql-security-for-dapps/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 - [Implementing GraphQL Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization) - Learn how to implement scalable authorization in GraphQL. Simplify RBAC and Permissions management with step-by-step instructions.
@@ -111,13 +106,13 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Vulnerabilities
 
-- [Aliasing Attacks](https://blog.escape.tech/graphql-batch-attacks-cause-dos/) - Addressing the Security concerns of GraphQL Aliases.
-- [File Inclusion and Directory Traversal](https://blog.escape.tech/file-inclusion-directory-traversal-graphql/) - File Inclusion and Directory Traversal in GraphQL.
-- [GraphQL CSRF](https://blog.escape.tech/understanding-and-dealing-with-cross-site-request-forgery-attacks/) - Understanding and Dealing with Cross-Site Request Forgery Attacks (CSRF) in GraphQL.
-- [GraphQL Cyclic Queries and Depth Limiting](https://blog.escape.tech/cyclic-queries-and-depth-limit/) - The relational aspect of GraphQL can be a vulnerability exploited by running deep and cyclic queries causing your API to crawl under the load and crash.
-- [HTTPS and GraphQL](https://blog.escape.tech/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks.
-- [SQL Injection](https://blog.escape.tech/sql-injection-in-graphql/) - SQL Injections in GraphQL.
-- [Verbose Errors Suggestions](https://blog.escape.tech/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
+- [Aliasing Attacks](https://escape.tech/blog/graphql-batch-attacks-cause-dos/) - Addressing the Security concerns of GraphQL Aliases.
+- [File Inclusion and Directory Traversal](https://escape.tech/blog/file-inclusion-directory-traversal-graphql/) - Reading arbitrary server files through unvalidated path parameters in GraphQL.
+- [GraphQL CSRF](https://escape.tech/blog/understanding-and-dealing-with-cross-site-request-forgery-attacks/) - Understanding and Dealing with Cross-Site Request Forgery Attacks (CSRF) in GraphQL.
+- [GraphQL Cyclic Queries and Depth Limiting](https://escape.tech/blog/cyclic-queries-and-depth-limit/) - The relational aspect of GraphQL can be a vulnerability exploited by running deep and cyclic queries causing your API to crawl under the load and crash.
+- [HTTPS and GraphQL](https://escape.tech/blog/prevent-data-leaks-with-https/) - How HTTPS can prevent Data Leaks.
+- [SQL Injection](https://escape.tech/blog/sql-injection-in-graphql/) - SQL Injections in GraphQL.
+- [Verbose Errors Suggestions](https://escape.tech/blog/graphql-verbose-error-suggestions/) - When GraphQL Error Messages become a Security Issue.
 - [What are Insecure Direct Object References (IDOR) in GraphQL, and how to fix them](https://escape.tech/blog/idor-in-graphql/) - When GraphQL Error Messages become a Security Issue.
 
 ## Contributing
